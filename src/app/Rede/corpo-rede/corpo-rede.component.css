@@ -1,0 +1,22 @@
+#rede_corpo{
+    background-color: #F3F2EF;
+    border-top:  1px solid rgb(238, 230, 230);
+    padding: 0px;
+    margin: 0px;
+}
+#mg-1{
+    width: 10%;
+    
+    
+
+}
+#componente1_rede{
+    width: 24%;
+
+}
+#componente2_rede{
+    width: 56%;
+}
+#mg-2{
+    width: 10%;
+}

@@ -1,0 +1,166 @@
+#corpo_adicionar_perfis{
+    width: 95%;
+    margin-left: 22px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+#plv_adicionar_perfil{
+    width: 100%;
+     display: flex; 
+     justify-content: center;
+     align-items: center;
+}
+#txt_adicionar_perfil{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 20px;
+}
+#subtxt_adicionar_perfis{
+    font-size: 17px;
+    text-align: center;
+    color: gray;
+}
+#perfis_adicionar{
+    height: 681px;
+    width: 100%;
+
+}
+#adicionar_ul{
+    padding: 0px;
+    margin: 0px;
+}
+#perfis_adicionar li{
+    float: left;
+    width: 30%;
+    border-radius: 10px;
+    margin-top: 8px;
+    margin-left: 12px;
+    list-style-type: none;
+    border: 1px solid rgb(226, 220, 220);
+}
+.perfil{
+    width: 100%;
+}
+#caixa_fundo_perfil{
+    height: 66px;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.fundo_perfil{
+    width: 100%;
+    height: 80px;
+    
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+.foto_perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 75px;
+    margin-left: 31px;
+    margin-top: -47px;
+}
+.dados_perfil{
+    height: 202px;
+    width: 100%;
+}
+.nome_perfil{
+    text-align: center;
+    font-size: 14px;
+    
+    margin-top: 18px;
+    margin-right: 5px;
+    
+}
+.profissao_perfil{
+    font-size: 16px;
+    width: 90%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space:nowrap;
+    margin-left: 5px;
+
+}
+.caixa_profissao{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    float: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space:nowrap;
+
+}
+.caixa_base_perfil{
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+}
+.ativo_perfil{
+    width: 100%;
+    float: left;
+}
+.ativo1{
+    height: 50px;
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.icone_perfil_feed{
+    margin-left: 17px;
+    margin-top: 17px;
+}
+.ativo2{
+    height: 38px;
+    width: 70%;
+    float: right;
+}
+.plv_ativo_feed_perfil{
+    font-size: 14px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 6px;
+}
+.cosideracao_perfil{
+    width: 100%;
+}
+.fequencia_perfil{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 18px;
+}
+.caixar_conectar_perfil{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    float: left;
+}
+.conectar_perfil{
+    width: 80%;
+    border-radius: 15px;
+    margin-top: 2px;
+    border: 1px solid rgb(105, 181, 231);
+
+}
+.plv_conectar_perfil{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(105, 181, 231);
+}
+.foto_perfil_feed{
+    margin-left: 17px;
+    margin-top: 10px;
+}
+.botao_descubra_mais_feed{
+    height: 30px;
+    width: 100%;
+    text-align: center;
+}
+.plv_descubra_mais_feed{
+    color: rgb(105, 181, 231);
+    margin-top: 2px;
+    margin-right: 2px;
+}

@@ -1,0 +1,153 @@
+#corpo_premium2{
+    width: 100%;
+    height: 73%;
+    background-color: #F3F2EF;
+}
+#caixa1_premium2{
+    height: 345px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    background-color: #F3F2EF;
+
+}
+#caixa_career{
+    height: 345px;
+    margin-top: 35px;
+    width: 39%;
+    float: left;
+    border: 1px solid rgb(226,220,220);
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: #fff;
+}
+#caixa_business{
+    height: 345px;
+    width: 39%;
+    float: left;    
+    border: 1px solid rgb(226,220,220);
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 35px;
+    background-color: #fff;
+
+}
+._bordar_top_premium2{
+    height: 10px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: seagreen;
+    float: left;
+}
+._bordar2_top_premium2{
+    height: 10px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #56687A;
+    float: left;
+}
+.titulo1_premium2{
+    float: left;
+    height: 95px;
+    width: 75%;
+    border-bottom: 1px solid rgb(226,220,220);
+}
+.titulo2_premium2{
+    float: left;
+    height: 95px;
+    width: 25%;
+    border-bottom: 1px solid rgb(226,220,220);
+}
+
+.tiutulo_premium2{
+    margin-top: 16px;
+    margin-left: 21px;
+    color: seagreen;
+}
+.tiutulo2_premium2{
+    margin-top: 16px;
+    margin-left: 21px;
+    color: #56687A;
+}
+.subtiutulo_premium2{
+    margin-top: 7px;
+    color: black;
+}
+.botao_recomendado_premium2{
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: #56687A;
+    height: 28px;
+    width: 110px;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.plv_recomentado_premium2{
+    color: white;
+    font-size: 14px;
+}
+.premium2_caixa_vantaegns{
+    width: 100%;
+    float: left;
+    height: 150px;
+}
+#vantagens li{
+    margin-top: 16px;
+    margin-right: 10px;
+
+}
+.caixa_botao_saiba_mais_premium2{
+    float: left;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+.botao_saiba_mais_premium2{
+    margin-top: 35px;
+    border: 1px solid royalblue;
+    height: 30px;
+    width: 94%;
+    margin-left: 5px;
+    border-radius: 32px;
+    text-align: center;
+}
+.plv_saiba_mais{
+    color: royalblue;
+    margin-top: 5px;
+}
+#caixa_txt_descricao_premium2{
+    width: 100%;
+    float: left;
+}
+#txt_descricao_premium2{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+#caixa_botao_conheca_todos_planos{
+    width: 100%;
+    height: 175px;
+    float: left;
+    justify-content: center;
+    display: flex;
+    
+    background-color: #F3F2EF;
+}
+#botao_conheca_todos_planos{
+    border: 1px solid rgb(226,220,220);
+    height: 42px;
+    width: 78%;
+    margin-top: 70px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #fff;
+
+}
+#plv_conheca_todos_planos{
+    color: rgb(113, 142, 230);
+    margin-top: 12px;
+    
+}

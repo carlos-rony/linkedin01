@@ -1,0 +1,203 @@
+#corpo_feed3{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 95%;
+    border-radius: 10px;
+    background-color: #fff;
+}
+#perfil3_post3{
+    height: 55px;
+    width: 100%;
+}
+#post1_feed3{
+    width: 90%;
+    float: left;
+}
+#foto_perfil_post3{
+    margin-left: 15px;
+    margin-top: 13px;
+    float: left;
+}
+#nome_perfil3_post{
+    float: left;
+    position: absolute;
+    font-size: 18px;
+    margin-left: 8px;
+    margin-top: 7px;
+}
+#subdescricao_post3{
+    margin-left: 2px;
+    position: absolute;
+}
+#post2_feed3{
+    width: 10%;
+    float: right;
+}
+#icone3_post3{
+    position: absolute;
+    float: left;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#foto_post3{
+    width: 100%;
+}
+
+
+#descriacao_post3{
+    height: 52px;
+    width: 100%;
+}
+#descricao01_post3{
+    width: 100%;
+    position: absolute;
+}
+#plv_descriacao_post3{
+    color: gray;
+    font-size: 17px;
+    margin-left: 12px;
+}
+#subdescricao_post3{
+    margin-left: 11px;
+}
+
+
+
+
+#teste_post3{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(208, 206, 214);
+}
+#teste1_post3{
+width: 75%;
+float: left;
+}
+#plv_teste_post03{
+    font-size: 14px;
+    margin-top: 7px;
+    margin-left: 12px;
+}
+#plv_subdescricao_teste_post3{
+    font-size: 12px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1px;
+}
+#teste02_post3{
+    width: 25%;
+    float: right;
+}
+#botao_saiba_mais_post3{
+    width: 92px;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-right: 10px;
+    border:1px solid rgb(37, 116, 235);
+    float: right;
+}
+#plv_saiba_post3{
+    font-size: 14px;
+    margin-left: 5px;
+    margin-top: 1px;
+    float: left;
+    color:rgb(37, 116, 235);
+    
+}
+
+#emojins_post3{
+    width: 100%;
+}
+#barra_curtidas_post3{
+    width: 95%;
+    margin-left: 10px;
+}
+#icone_post3{
+    margin-left: 2px;
+    margin-top: 5px;
+}
+#nm_curtidas_post3{
+    font-size: 13px;
+    margin-top: 7px;
+    margin-left: 5px;
+    position: absolute;
+}
+#nm_cometarios_post3{
+    float: right;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+#barra_emojins_post3{
+    width: 100%;
+    height: 50px;
+}
+#barra_emojins_post3 li{
+    list-style: none;
+    padding-left: 18px;
+    font-size: 11px;
+}
+#caixa_emoji1_post3{
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#emoji_gostar_post3{
+    float: left;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+#plv_emoji01_post3{
+    float: left;
+    margin-top: 10px;
+    margin-left: 6px;
+    font-size: 14px;
+}
+#caixa_emoji2_post3{
+    height: 40px;
+    width: 100px;
+    float: left;
+    margin-left: 25px;
+}
+#emoji_comentar_post3{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1px;
+}
+#plv_emoji2_post3{
+    font-size: 14px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#caixa_emoji3_post3{
+    float: left;
+    height: 40px;
+    margin-left: 25px;
+    width: 120px;
+}
+#emoji_compartilhar_post3{
+    margin-top:8px;
+    margin-left: 1px;
+    position: absolute;
+}
+#plv_emoji3_post3{
+    font-size: 14px;
+    margin-left: 30px;
+    margin-top: 8px;
+}
+#caixa_emiji4_post3{
+    float: left;
+    height: 40px;
+    width: 90px;
+    margin-left: 10px;
+}
+#emoji_enviar_post3{
+    position:absolute;
+    margin-left: 11px;
+    margin-top: 7px;
+}
+#plv_emoji4_post3{
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 10px;
+}

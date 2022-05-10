@@ -1,0 +1,115 @@
+#corpo_vaga_ds{
+    width: 55%;
+    float: left;
+}
+#caixa_vaga_ds{
+    margin-top: 20px;
+    float: left;
+    width: 82%;
+    border: 1px solid rgb(226, 220,220);
+    border-top-right-radius: 10px;
+    background-color: #fff;
+    
+}
+#caixa1_vaga_ds{
+    float: left;
+    width: 100%;
+}
+#ds1{
+    width: 82%;
+    float: left;
+}
+#titulo_vaga_ds{
+    margin-top: 20px;
+    font-size: 24px;
+    margin-left: 30px;
+}
+#sub_titulo_vaga_ds{
+    margin-left: 30px;
+    font-size: 17px;
+}
+#tempo_vag_ds{
+    font-size: 13px;
+    color: green;
+}
+#ds2{
+    width: 18%;
+    float: left;
+}
+#icone_compartilhar_vaga_ds{
+    margin-left: 14px;
+    margin-top: 19px;
+}
+#icone_config_vaga_ds{
+    margin-left: 27px;
+    margin-top: 17px;
+}
+
+
+#caixa2_vaga_ds{
+    float: left;
+    height: 170px;
+    width: 100%;
+}
+#vaga_ds_requisitos1{
+    margin-top: 15px;
+}
+#vaga_ds_requisitos2{
+    height: 36px;
+}
+.icone_vaga_ds_requisidos{
+    margin-top: 7px;
+    margin-left: 30px;
+}
+.plv_requisidos{
+    margin-left: 10px;
+    margin-top: 8px;
+    position: absolute;
+    font-size: 14px;
+}
+
+
+#caixa3_botoes_candidatar_vaga_ds{
+    float: left;
+    width: 100%;
+}
+#botao_candidatar{
+    background-color: #0A66C2;
+    margin-top: 7px;
+    margin-left: 30px;
+    height: 40px;
+    width: 158px;
+    border-radius: 30px;
+    text-align: center;
+    float: left;
+}
+#plv_cadidata-se_vaga_ds{
+    color: #fff;
+    margin-top: 8px;
+}
+#botao_salvar_vaga_ds{
+    border: 1px #0A66C2 solid;
+    height: 40px;
+    width: 82px;
+    float: left;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-top: 7px;
+    text-align: center;
+}
+#plv_salvar_botao_vaga_ds{
+    color: #0A66C2;
+    margin-top: 10px;
+}
+
+#caixa4_vaga_ds{
+    width: 100%;
+    float: left;
+    
+    margin-bottom: 30px;
+}
+#txt_introdução_vaga_ds{
+    font-size: 11px;
+    margin-top: 10px;
+    margin-left: 30px;
+}

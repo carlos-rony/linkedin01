@@ -1,0 +1,17 @@
+#corpo_menssagens{
+    position: absolute;
+    background-color: #F3F2EF;
+    border-top:  1px solid rgb(238, 230, 230)
+}
+#mg_esquerda_menssagens{
+    width: 10%;
+}
+#component_centro_menssagens{
+    width: 56%;
+}
+#component_direita_menssagens{
+    width: 23%;
+}
+#mg_direita_menssagens{
+    width: 11%;
+}

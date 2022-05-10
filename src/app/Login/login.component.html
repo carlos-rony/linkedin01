@@ -1,0 +1,65 @@
+<div id="login">
+    <div class="row" id="cabecalho">
+        <div class="col-3">
+            <img src="/assets/imagens/icone/logo04.png" id="logincapa">
+        </div>
+    </div>
+    <div id="corpo_log">
+        <div id="caixa_entrar">
+            <div id="espaço_caixa_login">
+                <div class="shadow" id="entrar">
+                    <div id="letra_ent">
+                        <h2 id="pv_ent">Entrar</h2>
+                        <h6 id="pv_descricao"><small>Acompanhe as novidades do seu mundo profissional</small></h6>
+                        <div class="row">
+
+                            <input [(ngModel)]="TXT_EMAIL" type="text" class="form-control border border-dark TXT_EMAIL" aria-describedby="emailHelp" placeholder="E-mail ou telefone">
+                            <input [(ngModel)]="TXT_SENHA" type="password" class="form-control border border-dark TXT_SENHA" placeholder="Senha">
+                        </div>
+                        <div class='row'>
+                            <button class="btn btn-link" id="btn_senha">
+                                <a id="pv_senha">Esqueceu a senha?</a>
+                            </button>
+                            <button type="button" class="btn" id="btn_entrar" (click)="validarlogin()">
+                                    <p id="pv_entrar">Entrar</p>
+                            </button>
+                        </div>
+                        <div class='row'>
+                            <div id="traco2">
+                                <small id='traco1'>ou</small>
+                            </div>
+                            <button type="button" class="btn border border-secondary" id="btn_apple">
+                                <div class="row">
+                                    <div><img src="../../assets/imagens/icone/apple01.png" id="img_apple"></div>
+                                    <div>
+                                        <p id="pv_apple">Entrar com a Apple</p>
+                                    </div>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="novo_linek">
+                <div class="text-center">
+                    <span>Novo no LinkedIn?</span>
+                    <a routerLink="/Cadastre-se">
+                        <span><a class=" btn btn-link" id="cadastro">Cadastre-se</a></span>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="rodape">
+        <ul id="menu_inferior">
+            <li><img src="/assets/imagens/icone/icon_link.png" id='icon_link'>© 2022</li>
+            <li class="btn-link">Contato do Usuário</li>
+            <li class="btn-link">Politica de Privacidade do Linkedin</li>
+            <li class="btn-link">Diretrizes da Comunidade</li>
+            <li class=" btn-link">Politica de Cookies</li>
+            <li class=" btn-link">Politica de Direitos Autorais</li>
+            <li class="btn-link">Enviar fedlback</li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,153 @@
+#corpo_cadastro5{
+    height: 757px;
+    width: 100%;
+    background-color:#F3F2EF ;
+}
+#caixa_cabeçalho2_cadastro5{
+    height: 140px;
+    width: 100%;
+    text-align: center;
+}
+#caixa_imagem_cadastro5{
+    height: 50px;
+    width: 100%;
+    text-align: left;
+}
+#icone_cadastro5{
+    margin-top: 18px;
+    margin-left:145px;
+}
+#txt_cadastro5{
+    margin-top: 25px;
+}
+#subtxt_cadastro5{
+    font-size: 21px;
+}
+
+
+#caixa_corpo_cadastro5{
+    height: 420px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#caixa_cadastro5{
+    margin-top: 50px;
+    height: 470px;
+    width: 370px;
+    border-radius: 10px;
+    float: left;
+    background-color: #ffff;
+}
+#caixa_inputs_cadastro5{
+    height: 280px;
+    width: 100%;
+    text-align: left;
+    float: left;
+}
+#caixa_tempo_experiencia_cadastro5{
+    height: 78px;
+    width: 100%;
+}
+.caixa_input_cadastro5{
+    height: 55px;
+    width: 100%;
+    float: left; 
+}
+#caixa_select_cadastro5{
+    height: 50px;
+    width: 50%;
+    float: left;
+
+}
+#select1_experiencia_cadastro5{
+    height: 30px;
+    width: 140px;
+    float: left;
+    margin-left: 20px;
+}
+#select2_experiencia_cadastro5{
+    height: 30px;
+    width: 140px;
+    float: left;
+    margin-left: 10px;
+}
+#plv_ano_experiencia_cadastro5{
+    margin-top: 10px;
+    margin-left: 42px;
+}
+#plv2_ano_experiencia_cadastro5{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#linha_categoria_cadastro5{
+    width: 100%;
+    text-align: center;
+}
+#plv_categoria_cadastro5{
+    margin-top: 20px;
+}
+#pvl_nome_cadastro5{
+    margin-top: 9px;
+    margin-left: 23px;
+    font-size: 17px;
+}
+.input_cadastro5{
+    width: 320px;
+    margin-left: 23px;
+}
+#input_confirmacao{
+    margin-top: 6px;
+    margin-left: 5px;
+}
+#caixa_botao_continuar{
+    float: left;
+    width: 100%;
+    height: 85px;
+    justify-content: center;
+    display: flex;
+}
+#caixa_confirmacao_idade_cadastro5{
+    height: 100px;
+    width: 100%;
+}
+#confimacao_idade_cadastro5{
+    border: 1px solid rgb(226, 220, 220);
+    height: 55px;
+    width: 330px;
+    float: left;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#confimacao1{
+    height: 55px;
+    width: 70%;
+    float: left;
+}
+#plv_idade_minima_cadastro5{
+    margin-top: 15px;
+    margin-left: 24px;
+    font-size: 18px;
+}
+#confimacao2{
+    height: 55px;
+    width: 30%;
+    float: left;
+}
+#botao_continuar_cadastro5{
+    float: left;
+    height: 48px;
+    width: 352px;
+    border-radius: 22px;
+    text-align: center;
+    background-color: #0A66C2;
+    margin-top: 10px;
+}
+#plv_continuar_cadastro5{
+    margin-top: 13px;
+    font-size: 17px;
+    margin-right: 2px;
+    color: #ffff;
+}

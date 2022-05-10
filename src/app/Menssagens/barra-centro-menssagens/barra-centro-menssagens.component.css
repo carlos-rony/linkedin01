@@ -1,0 +1,11 @@
+#barra-centro-menssagens{
+    margin-top: 20px;
+}
+#cpnt_1_menssagens{
+    width: 40%;
+    float: left;
+}
+#cpnt_2_menssagens{
+    width: 60%;
+    float: right;
+}

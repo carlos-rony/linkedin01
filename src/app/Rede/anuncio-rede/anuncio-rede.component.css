@@ -1,0 +1,92 @@
+#corpo_anuncio_rede{
+    height: 300px;
+    width: 323px;
+    margin-left: 17px;
+    background-color: #fff;
+}
+#parte1_anucio_rede{
+    height: 80px;
+    width: 100%;
+}
+#caixa_plv_anuncio_rede{
+    text-align: right;
+    height: 35px;
+    width: 100%;
+    float: left;
+}
+#plv_anuncio_rede{
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+#icone_anuncio_rede{
+    margin-left: 10px;
+}
+#caixa_plv_subtext_anuncio_rede{
+    height: 45px;
+    width:100%;
+    float: left;
+    text-align: center;
+}
+#plv_subtext_anuncio_rede{
+    font-size: 13px;
+}
+
+
+#parte2_anuncio_rede{
+    height: 185px;
+    width: 100%;
+}
+#caixa_foto_anuncio_rede{
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+#foto_anuncio_rede{
+    margin-top: 10px;
+}
+#caixa_txt_anuncio_rede{
+    float: left;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+#txt_anuncio_rede{
+    font-size: 19px;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+#caixa_botao_seguir_anuncio_rede{
+    height: 65px;
+    float: left;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+#botao_seguir_anuncio_rede{
+    border: 1px solid rgb(34, 142, 230);
+    height: 32px;
+    width: 77px;
+    border-radius: 16px;
+    margin-top: 8px;
+    margin-right: 2px;
+}
+#plv_seguir_anuncio_rede{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 1px;
+    color: rgb(34, 142, 230);
+}
+
+
+#caixa_amplie_rede{
+    height: 31px;
+    width: 100%;
+    text-align: center;
+}
+#plv_amplie_rede{
+    margin-top: 5px;
+    margin-right: 2px;
+    color: rgb(102, 174, 233);
+}

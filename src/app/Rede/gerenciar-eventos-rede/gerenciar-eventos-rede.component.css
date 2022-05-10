@@ -1,0 +1,75 @@
+#eventos_rede{
+    height: 91%;
+    width: 100%;
+    background-color: #F3F2EF;
+}
+#eventos1_rede{
+    width: 68%;
+    float: left;
+
+}
+#caixa_eventos_rede{
+    width: 81%;
+    margin-left: 145px;
+    border-radius: 10px;
+    border: 1px solid rgb(226, 220,220);
+    background-color: #fff;
+    margin-top: 20px;
+}
+#caixa1_evento1_rede{
+    height: 62px;
+    width: 100%;
+    border-bottom:1px solid rgb(226, 220,220) ;
+}
+#caixa01_eventos{
+    width: 90%;
+    float: left;
+}
+#pvl_eventos_rede{
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 16px;
+}
+#caixa02_eventos{
+    width: 10%;
+    float: left;
+    text-align: center;
+}
+#plv_criar_eventos_rede{
+    margin-top: 22px;
+    margin-right: 5px;
+    color: royalblue;
+}
+
+
+
+#caixa2_eventos1_rede{
+    width: 100%;
+}
+#caixa_foto_eventos_rede{
+    width: 100%;
+    text-align: center;
+}
+#foto_eventos_rede{
+    margin-top: 20px;
+}
+
+
+#caixa_txt_eventos_rede{
+    width: 100%;
+    text-align: center;
+}
+#sub_txt_eventos_rede{
+    font-size: 16px;
+}
+#plv_evento_txt_evento_rede{
+    position: absolute;
+    font-size: 16px;
+}
+
+#eventos2_rede{
+    width:20%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}

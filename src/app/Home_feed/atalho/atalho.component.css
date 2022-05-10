@@ -1,0 +1,68 @@
+#atalhos_corpo{
+    margin-left: 5px;
+    margin-top: 4px;
+    width: 97%;
+    float: left;
+    border-radius: 10px;
+    background-color: #fff;
+
+}
+#itens_atalhos{
+    width: 100%;
+    float: left;
+    font-size: 11px;
+    display: block;
+}
+#atalhos1{
+    width: 90%;
+    float: left;
+    
+    padding-top: 12px;
+}
+#pvl_grupos{
+    width: 100%;
+    font-size: 15px;
+    margin-left: 12px;
+    color: #307ECC;
+
+
+}
+#pvl_eventos{
+    width: 100%;
+    font-size: 15px;
+    margin-left: 12px;
+    color: #307ECC;
+
+
+
+}
+#pvl_hashyahs{
+    width: 100%;
+    font-size: 15px;
+    margin-left: 13px;
+    color: #307ECC;
+
+}
+
+#atalhos2{
+    width: 10%;
+    float: right;
+}
+#icon_atalho{
+    margin-top: 43px;
+}
+#descubra_mais{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+#pvl_descubra_mais{
+    font-size: 18px;
+    color: rgb(145, 145, 145);
+    margin-top: 6px;
+    margin-right: 1px;
+
+}
+

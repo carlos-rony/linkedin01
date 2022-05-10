@@ -1,0 +1,118 @@
+#corpo_minhas_vagas{
+    width: 100%;
+    height: 705px;
+    background-color: #F3F2EF;
+}
+#minha1{
+    width: 26%;
+    float: left;
+}
+#minha2{
+    width: 74%;
+    float: left;
+}
+#caixa1_minhas_vagas{
+    margin-top: 20px;
+    height: 50px;
+    width: 225px;
+    border-radius: 10px;
+    margin-left: 145px;
+    float: left;
+    background-color: #fff;
+    border: 1px solid rgb(226,220,220);
+}
+#vaga01{
+    height: 50px;
+    width: 15%;
+    float: left;
+    text-align: right;
+}
+#icone_minhas_vagas{
+    margin-top: 12px;
+    margin-right: 5px;
+}
+
+
+#vaga02{
+    height: 50px;
+    width: 85%;
+    float: left;
+}
+#pvl_meus_itens{
+    margin-top: 13px;
+    margin-left: 2px;
+    color: rgb(134, 128, 128);
+}
+
+#caixa2_minhas_vagas{
+    border: 1px solid rgb(226,220,220);
+    background-color: #fff;
+    margin-top: 20px;
+    height: 490px;
+    width: 540px;
+    border-radius: 10px;
+    margin-left: 20px;
+    float: left;
+}
+#caixa1_minhas_vagas2{
+    height: 95px;
+    width: 100%;
+    border-bottom: rgb(226,220,220) 1px solid;
+    float: left;
+}
+#plv_minhas_vagas{
+    margin-left: 22px;
+    font-size: 30px;
+    margin-top: 11px;
+}
+#botao_salvas_minhas_vagas{
+    border: 1px solid rgb(226,220,220);
+    height: 32px;
+    width: 70px;
+    border-radius: 30px;
+    margin-left: 13px;
+    text-align: center;
+}
+#plv_salvas_botao_minhas_vagas{
+    color: rgb(180, 180, 180);
+    margin-top: 5px;
+}
+
+
+#caixa2_minhas_vagas2{
+    float: left;
+    height: 280px;
+    width: 100%;
+    text-align: center;
+}
+#foto_minhas_vagas{
+    margin-top: 38px;
+}
+
+#caixa3_txt_minhas_vagas{
+    float: left;
+    width: 100%;
+    height: 115px;
+    text-align: center;
+}
+#txt_minhas_vagas{
+    font-size: 23px;
+    color: rgb(134, 128, 128);
+}
+#caixa_botao_procure_vaga{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+#botao_procure_vaga{
+    float: left;
+    margin-top: 10px;
+    width: 210px;
+    height: 30px;
+    border-radius: 30px;
+    border: 1px solid #0A66C2;
+}
+#plv_botao_procure_vaga{
+    color: #0A66C2;
+    margin-top: 3px;
+}

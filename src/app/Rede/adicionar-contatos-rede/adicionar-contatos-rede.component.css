@@ -1,0 +1,102 @@
+#corpo_adicionar_contatos_rede{
+    height: 290px;
+    width: 782px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 14px;
+    background-color: #fff;
+}
+#caixa1_adicionar_contatos{
+    height: 140px;
+    width: 100%;
+}
+#caixa_sair_contatos_rede{
+    height: 38px;
+    width: 100%;
+    text-align: right;
+}
+#icone_sair_rede{
+    margin-right: 14px;
+    margin-top: 16px;
+}
+#caixa_adicionar_perfil_rede{
+    height: 60px;
+    width: 100%;
+}
+#adicionar1_rede{
+    height: 60px;
+    width: 13%;
+    text-align: right;
+    float: left;
+}
+#icone_adicionar_ctt_rede{
+    margin-right: 18px;
+    margin-top: 3px;
+}
+#adicionar2_rede{
+    height: 60px;
+    width: 87%;
+    float: right;
+}
+#pvl_adionar_contatos_rede{
+    font-size: 20px;
+    margin-top: 9px;
+    margin-left: 6px;
+}
+#caixa_txt_adicionar_rede{
+    height: 40px;
+}
+#txt_adionar_contatos_rede{
+    font-size: 19px;
+    margin-left: 35px;
+}
+#subtxt_adicionar_rede{
+    position: absolute;
+}
+
+
+#caixa2_adicionar_contatos{
+    height: 150px;
+    width: 100%;
+
+}
+#caixa_confirma_email_rede{
+    height: 46px;
+    width: 100%;
+    float: left;
+}
+#input_txt_email_rede{
+    height: 32px;
+    width: 712px;
+    margin-top: 10px;
+    margin-left: 34px;
+}
+#caixa_botao_continuar_rede{
+    height: 75px;
+    float: left;
+    width: 100%;
+}
+#botao_continuar_rede{
+     border: 1px solid rgb(49, 171, 252);
+     height: 32px;
+     width: 103px;
+     border-radius: 15px;
+     margin-top: 5px;
+     margin-left: 35px;
+}
+#plv_continuar_rede{
+    color: rgb(0, 153, 255);
+    font-size: 16px;
+    margin-left: 14px;
+    margin-top: 5px;
+}
+#caixa_mais_opcoes_rede{
+    height: 40px;
+    width: 100%;
+}
+#plv_mais_opcoes_rede{
+    margin-left: 36px;
+    font-size: 17px;
+    margin-top: 10px;
+    color: black;
+}

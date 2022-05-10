@@ -1,0 +1,144 @@
+#corpo_lista_menssagens{
+    height: 682px;
+    width: 97%;
+    border-bottom-left-radius:10px;
+    border-top-left-radius:10px;
+    margin-left: 12px;
+    border: 1px solid rgb(226, 220, 220);
+    margin-top: 2px;
+    background-color: #FFFFFF;
+    border-bottom: 20px;
+
+}
+#caixa1_menssagens{
+    width: 100%;
+    border-bottom: 1px solid rgb(226, 220, 220);
+    border-bottom: 10px;
+
+}
+#txt1_menssagem{
+    width: 70%;
+    float: left;
+}
+#plv_mensagens{
+    margin-left: 17px;
+    margin-top: 13px;
+}
+#txt2_menssagem{
+    height: 45px;
+    width: 30%;
+    float: right;
+}
+#icone1_menssagens{
+    margin-left: 12px;
+    margin-top: 13px;
+}
+#icone2_menssagens{
+    margin-left: 22px;
+    margin-top: 12px;
+    color: gray;
+}
+
+
+#caixa_perfis_menssagens{
+    height: 150px;
+    width: 100%;
+
+}
+#caixa_persquisa_perfis_menssagens{
+    height: 44px;
+    width: 100%;
+    float: left;
+    
+}
+#pesquisa_perfis_menssagens{
+    height: 32px;
+    width: 91%;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+#lupa_pesquisa_menssagens{
+    width: 10%;
+    height: 32px;
+    text-align: center;
+    float: left;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color:#EEF3F8;
+
+}
+#icone3_menssagens{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#barra_pesquisa_menssagens{
+    float: left;
+    width: 90%;
+    height: 32px;
+}
+#input_pesquisa_mensagens{
+    width: 100%;
+    height: 32px;
+    font-size: 14px;
+    background-color:#EEF3F8;
+    border: transparent;
+}
+
+#perfil_mensagens{
+    height: 98px;
+    width: 100%;
+    float: left;
+    background-color: #EEF3F8;
+    border-bottom: 1px solid rgb(226, 220, 220);
+}
+#perfil2_mensagens{
+    height: 98px;
+    width: 100%;
+    float: left;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid rgb(226, 220, 220);
+
+}
+#mensagens1{
+    height: 98px;
+    width: 23%;
+    float: left;
+}
+#foto_perfil_menssagens{
+    height: 55px;
+    border-radius: 75px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+#mensagens2{
+    height: 98px;
+    width: 77%;
+    float: right;
+}
+#linha_nm_perfil_menssagens{
+    height: 38px;
+    width: 100%;
+}
+#nm_perfil_mensagens{
+    font-size: 20px;
+    margin-top: 13px;
+    margin-left: 5px;
+    float: left;
+}
+#dta_perfil_menssagens{
+    float: right;
+    margin-top: 15px;
+    font-size: 18px;
+    margin-right: 16px;
+}
+
+
+#subtxt_perfil_menssagens{
+    height: 55px;
+    width: 100%;
+}
+#txt_perfil_menssagens{
+    position: absolute;
+    font-size: 18px;
+    margin-left: 5px;
+}

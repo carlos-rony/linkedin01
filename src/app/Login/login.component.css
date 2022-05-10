@@ -1,0 +1,187 @@
+#login {
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+#cabecalho {
+    height: 70px;
+    width: 100%;
+}
+
+#logincapa {
+    margin-top: 28px;
+    margin-left: 52px;
+}
+
+#corpo_log {
+    width: 100%;
+    height: calc(100% - 110px);
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+#espaço_caixa_login {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#entrar {
+    height: 485px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+#pv_descricao {
+    width: 260px;
+    height: 40px;
+    font-size: 18px;
+}
+
+#letra_ent {
+    height: 100px;
+    margin-left: 23px;
+}
+
+#pv_ent {
+    margin-top: 15px;
+}
+
+.TXT_EMAIL {
+    width: 304px;
+    height: 52px;
+    margin-top: 13px;
+    margin-bottom: 10px;
+    border: black;
+    margin-left: 17px;
+}
+
+.TXT_SENHA {
+    width: 304px;
+    height: 52px;
+    border: black;
+    margin-top: 14px;
+    margin-left: 17px;
+}
+
+#btn_senha {
+    height: 20px;
+    width: 180px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+
+#pv_senha {
+    color: #0A66C2;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 14px;
+}
+
+#btn_entrar {
+    height: 52px;
+    width: 304px;
+    border-radius: 75px;
+    background-color: #0A66C2;
+    margin-top: 33px;
+    margin-left: 14px;
+}
+
+#pv_entrar {
+    color: white;
+    font-weight: 500;
+    margin-top: 7px;
+    margin-left: 0px;
+}
+
+#traco1 {
+    margin-left: 0px;
+    margin-top: 5px;
+}
+
+#traco2 {
+    margin-left: 157px;
+    margin-top: 10px;
+    color: rgb(145, 145, 145);
+}
+
+#btn_apple {
+    height: 52px;
+    width: 304px;
+    border-radius: 75px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 14px;
+    border: #ffffff;
+}
+
+#img_apple {
+    height: 20px;
+    width: 18px;
+    margin-left: 56px;
+    margin-top: 5px;
+}
+
+#pv_apple {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 11px;
+    margin-top: 7px;
+    color: #7a7878;
+}
+
+#cadastro {
+    color: #4A70C2;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 15px;
+    margin-bottom: 3px;
+}
+
+#rodape {
+    height: 35px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    padding: 0;
+    margin: 0;
+}
+
+#icon_link {
+    height: 22px;
+    width: 58px;
+    margin-bottom: 10px;
+}
+
+#comeco1 {
+    margin-left: 7px;
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+#comeco2 {
+    width: 1200;
+    margin-top: 0px;
+    margin-left: 28px;
+    color: #7a7676;
+    font-size: 14px;
+}
+
+#menu_inferior {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#menu_inferior li {
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    color: rgb(117, 117, 117);
+}

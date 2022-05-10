@@ -1,0 +1,158 @@
+#corpo_menu_vaga{
+    width: 93%;
+    margin-top: 20px;
+}
+#menu_vaga{
+    height: 350px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgb(226, 220, 220);
+}
+
+
+
+#vaga_caixa1{
+    width: 100%;
+    height: 55px;
+}
+#vaga_caixa2{
+    width: 100%;
+    height: 55px;
+}
+#vaga_caixa3{
+    width: 100%;
+    height: 50px; 
+}
+#vaga_caixa4{
+    width: 100%;
+    height: 50px; 
+}
+#vaga_caixa5{
+    width: 100%;
+    height: 60px; 
+}
+#vaga_caixa6{
+    width: 100%;
+    height: 60px; 
+}
+
+
+
+
+
+.vaga1{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+
+
+
+
+
+#icone1_vaga{
+    margin-left: 14px;
+    margin-top:32px;
+}
+#icone2_vaga{
+    margin-left: 15px;
+    margin-top:25px;
+}
+#icone3_vaga{
+    margin-left: 14px;
+    margin-top:20px;
+}
+#icone4_vaga{
+    margin-left: 12px;
+    margin-top:22px;
+}
+#icone5_vaga{
+    margin-left: 15px;
+    margin-top:33px;
+}
+#icone6_vaga{
+    margin-left: 15px;
+    margin-top:26px;
+}
+
+
+
+
+
+.vaga2{
+    width: 80%;
+    float: right;
+}
+
+
+
+
+
+#plv_minhas_vaga{
+    font-size: 14px;
+    margin-top: 34px;
+    margin-left: 4px;
+    color: black;
+}
+#plv_alerta_vaga{
+    font-size: 14px;
+    margin-top: 27px;
+    margin-left: 4px;
+    color: black;
+
+}
+#plv_salarios_vaga{
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 4px;
+    color: black;
+
+}
+#plv_avaliacao_vaga{
+    font-size: 14px;
+    margin-top: 16px;
+    margin-left: 3px;
+    color: black;
+
+}
+#plv_orientacao_vaga{
+    font-size: 14px;
+    margin-top: 32px;
+    color: black;
+    margin-left: 4px;
+}
+#plv_configuracoes_vaga{
+    font-size: 14px;
+    margin-top: 17px;
+    margin-left: 3px;
+    color: black;
+}
+
+
+#caixa_anunciar_vaga{
+    width: 225px;
+    border-radius: 30px;
+    margin-top: 12px;
+    margin-left: 2px;
+    border: 1px solid rgb(0, 132, 255);
+}
+#botao_anunciar_vaga{
+    margin-top: 10px;
+}
+#anunciar1_vaga{
+    width: 23%;
+    border-radius: 30px;
+    float: left;
+    text-align: right;
+}
+#icone_adicionar_vaga{
+    margin-right: 8px;
+    margin-top: 10px;
+}
+#plv_adicionar_vaga{
+    font-size: 14px;
+    margin-top: 13px;
+    color: #0A66C2;
+}

@@ -1,0 +1,31 @@
+#corpo_gerenciar_contatos_rede{
+    width: 785px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 12px;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: #fff;
+}
+#gerenciar_rede{
+    height: 49px;
+    width: 100%;
+}
+#gerenciar1_rede{
+    height: 49px;
+    width: 88%;
+    float: left;
+}
+#pergunata_convites_rede{
+    margin-left: 16px;
+    margin-top: 10px;
+}
+#gerenciar2_rede{
+    height: 49px;
+    width: 12%;
+    float: right;
+}
+#botao_gerenciar_rede{
+    margin-left: 9px;
+    margin-top: 10px;
+    color: gray;
+}

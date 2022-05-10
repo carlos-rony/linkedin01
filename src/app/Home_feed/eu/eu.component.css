@@ -1,0 +1,103 @@
+#corpo_eu{
+    height: 365px;
+    width: 19%;
+    float: right;
+    border-radius: 10px;
+    margin-right: 360px;
+    margin-top: 10px;
+    background-color: #fff;
+    border: 1px solid rgb(226, 220, 220) ;
+
+}
+#caixa1_eu{
+    height: 105px;
+    width: 100%;
+    border-bottom: 1px solid rgb(226, 220, 220) ;
+}
+#eu1{
+    height: 70px;
+    width: 27%;
+    float: left;
+    text-align: right;
+}
+#foto_eu{
+    height: 55px;
+    border-radius: 50px;
+    margin-right: 2px;
+    margin-top: 10px;
+}
+#eu2{
+    height: 70px;
+    width: 73%;
+    float: right;
+}
+#nome_eu{
+    margin-top: 17px;
+    margin-left: 1px;
+}
+#status_eu{
+    position: absolute;
+    font-size: 14px;
+    margin-top: 5px;
+}
+#botao_visualizar_perfil_eu{
+    border: 1px  solid royalblue;
+    height: 24px;
+    width: 90%;
+    margin-top: 3px;
+    margin-left: 15px;
+    border-radius: 20px;
+    float: left;
+    text-align: center;
+}
+#plv_visualizar_perfil_eu{
+    font-size: 14px;
+    margin-top: 2px;
+    color: royalblue;
+}
+
+
+
+
+
+
+#caixa2_eu{
+    height: 125px;
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid rgb(226, 220, 220) ;
+
+}
+#caixa_conta_eu{
+}
+.plv_conta_eu{
+    font-size: 16px;
+    margin-left: 18px;
+    margin-top: 13px;
+}
+.plv_cong_privacidade_eu{
+    margin-left: 18px;
+    font-size: 18px;
+}
+
+
+
+#caixa3_eu{
+    height: 97px;
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid rgb(226, 220, 220) ;
+}
+
+
+#caixa4_eu{
+    float: left;
+    width: 100%;
+    height: 38px;
+}
+#plv_sair_eu{
+    font-size: 18px;
+    margin-left: 18px;
+    margin-top: 7px;
+    color: black;
+}

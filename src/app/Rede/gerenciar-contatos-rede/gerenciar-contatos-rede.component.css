@@ -1,0 +1,120 @@
+#contatos_rede{
+    float: left;
+    width: 100%;
+    background-color: #fff;
+}
+#cabeçalho_contatos_rede{
+    width: 100%;
+    border-top: rgb( 226, 220, 220) 1px solid;
+    background-color: #fff;
+}
+#pvl_contatos_salvos{
+    font-size:23px;
+    margin-left: 144px;
+    margin-top: 18px;
+}
+
+#corpo_contatos_rede{
+    height: 639px;
+    width: 100%;
+    
+    background-color: #F3F2EF;
+}
+#rede_contatos1{
+    height: 250px;
+    width: 65%;
+    float: left;
+    align-items: center;
+    justify-content: right;
+    display: flex;
+}
+#caixa_contatos_salvos{
+    height: 188px;
+    width: 780px;
+    border-radius: 10px;
+    margin-right: 10px;
+    border: 1px solid rgb(226, 220,220);
+    background-color: #fff;
+}
+#caixa1_contatos_salvos{
+    border-bottom: 1px solid rgb(226, 220,220);
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+#quantidade_contatos_salvos{
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#caixa2_contatos_salvos{
+    height: 140px;
+    width: 100%;
+    float: left;
+}
+
+
+#conecte-se1_contatos_rede{
+    height: 140px;
+    width: 13%;
+    float: left;
+    text-align: right;
+}
+#icone1_contatos_rede{
+    margin-right: 12px;
+    margin-top: 30px;
+}
+
+#conecte-se2_contatos_rede{
+    height: 140px;
+    width: 87%;
+    float: left;
+}
+#plv_conencte-se_rede{
+    margin-top: 35px;
+    font-size: 24px;
+    margin-left: 2px;
+}
+#subplv_conecte-se_rede{
+    font-size: 18px;
+    position: absolute;
+    float: left;
+}
+#plv_sincroniza_contatos{
+    margin-top: 38px;
+    margin-left: 2px;
+    color: #1E8ED9;
+}
+
+
+
+#rede_contatos2{
+    height: 639px;
+    width: 25%;
+    float: left;
+}
+#caixa_opcoes_contatos_rede{
+    height: 170px;
+    width: 350px;
+    margin-top: 20px;
+    float: left;
+
+}
+
+.caixa_opcao_contatos_rede{
+    border: 1px solid #1E8ED9;
+    height: 38px;
+    width: 320px;
+    border-radius: 22px;
+    margin-left: 18px;
+    margin-top: 13px;
+    text-align: center;
+}
+.icone1_opcoes_contatos_rede{
+    margin-right: 15px;
+}
+.plv_opcoes_contatos_rede{
+    margin-top: 6px;
+    color: #1E8ED9;
+}

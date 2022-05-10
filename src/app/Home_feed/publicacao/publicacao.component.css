@@ -1,0 +1,128 @@
+#corpo_publicacao{
+    height: 150px;
+    width: 95%;
+    border-radius: 10px;
+    margin-left: 15px;
+
+}
+#publicacao{
+    width: 100%;
+    margin-left: 5px;
+    border-radius: 10px;
+    
+    background-color: #fff;
+}
+#publicacao01{
+    width: 100%;
+    height: 70px;
+}
+#foto_eu_publicacao{
+    height: 50px;
+    margin-left: 18px;
+    margin-top: 15px;
+    float: left;
+
+}
+#barra_publicacao{
+    height: 45px;
+    width: 80%;
+    float: left;
+    margin-top: 15px;
+    margin-left: 6px;
+    border-radius: 30px;
+    font-size: 14px;
+}
+#publicacao02{
+    width: 100%;
+    height: 50px;
+}
+#publicacao02 li{
+    display: inline-block;
+}
+#caixa_foto_publicacao{
+    width: 90px;
+    margin-left: 30px;
+    float: left;
+
+}
+#icone_foto_publicacao{    
+
+   margin-left: 16px;
+   margin-top: 12px;
+}
+#plv_foto_publicacao{
+    margin-right: 10px;
+    margin-top: 12px;
+    font-size: 14px;
+    float: right;   
+}
+#caixa_video_publicacao{
+    width: 90px;
+    margin-left: 15px;
+    float: left;
+}
+#icone_video_publicacao{
+    margin-left: 10px;
+    margin-top: 12px;
+}
+#plv_video_publicacao{
+    float: right;
+    font-size: 14px;
+    margin-right: 8px;
+    margin-top: 13px;
+
+}
+
+#caixa_evento_publicacao{
+    width: 90px;
+    margin-left: 15px;
+    float: left;
+}
+#icone_evento_publicacao{
+    margin-left: 10px;
+    margin-top: 12px;
+}
+#plv_evento_publicacao{
+    float: right;
+    font-size: 14px;
+    margin-right: 7px;
+    margin-top: 13px;
+
+}
+
+#caixa_artigo_publicacao{
+    width: 150px;
+    margin-left: 15px;
+    float: right;
+}
+#icone_artigo_publicacao{
+    margin-left: 12px;
+    margin-top: 12px;
+}
+#plv_artigo_publicacao{
+    float: right;
+    font-size: 14px;
+    margin-right: 14px;
+    margin-top: 13px;
+
+}
+
+
+
+#novo_feed1{
+    width: 65%;
+    float: left;
+    margin-left: 10px;
+}
+#novo_feed2{
+    width: 33%;
+    float: right;
+}
+#classificar_feed{
+    font-size: 15px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+#icone_novo_feed{
+    margin-left: 5px;
+}

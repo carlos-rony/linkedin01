@@ -1,0 +1,35 @@
+#corpo-notificacoes{
+    width: 100%;
+    background-color: #F3F2EF;
+    position: absolute;
+    border-top:  1px solid rgb(238, 230, 230)
+
+}
+#mg-esquerda-notificacoes{
+    width: 10%;
+    float: left;
+    border: 1px solid transparent;
+}
+#component1-notificacao{
+    border: 1px solid transparent;
+    
+    width: 17%;
+    float: left;
+}
+#component2-notificacao{
+    border: 1px solid transparent;
+
+    width: 39%;
+    float: left;
+}
+#component3-notificacao{
+    border: 1px solid transparent;
+    
+    width: 23%;
+    float: left;
+}
+#mg-direita-notificacoes{
+    border: 1px solid transparent;
+    width: 11%;
+    float: right;
+}

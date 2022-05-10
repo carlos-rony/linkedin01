@@ -1,0 +1,66 @@
+#corpo_promovido{
+    width: 100%;
+    float: left;
+    border-radius: 10px;
+    margin-top: 8px;
+    background-color: #fff;
+    
+}
+#promovido{
+    width: 100%;
+}
+#promovido1{
+    width: 90%;
+    height: 25px;
+    float: left;
+}
+#plv_promovido{
+    font-size: 20px;
+    margin-left: 14px;
+}
+#promovido2{
+    height: 25px;
+    width: 10%;
+    float: right;
+}
+#icone_promivido{
+    margin-left: 2px;
+}
+#anuncios_promovido{
+    width: 100%;
+}
+.anuncio{
+    width: 100%;
+}
+.anuncio1{
+    width: 22%;
+    float: left;
+    margin-top: 0px;
+}
+.foto_anuncio{
+    margin-top: 10px;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+.anuncio2{
+    float:right;
+    width: 78%;
+    margin-bottom: 5px;
+}
+.pvl_anuncio{
+    width: 90%;
+    float: left;
+    font-size: 14px;
+    color: black;
+    margin-left: 5px;
+ 
+}
+.subtexto_anuncio{
+    font-size: 12px;
+    
+}
+.icon_anuncio{
+    float: right;
+    margin-top: 15px;
+    margin-right: 5px;
+}

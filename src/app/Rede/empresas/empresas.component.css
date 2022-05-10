@@ -1,0 +1,169 @@
+#corpo_empresas_rede{
+    width: 100%;
+    height: 580px;
+    border-radius: 10px;
+    border-left: 1px solid rgb(226, 220, 220);
+    border-right: 1px solid rgb(226, 220, 220);
+    border-bottom: 1px solid rgb(226, 220, 220);
+    background-color: #fff;
+}
+
+#busca_empresa_rede {
+    margin: 0;
+    padding: 0;
+}
+#busca_empresa_rede li{
+    display: inline-block;
+    width: 100%;
+
+}
+.caixa_procura_empresas_rede{
+    width: 100%;
+}
+.caixa1_txt_rede_empresa{
+    height: 50px;
+    width: 85%;
+    float: left;
+}
+.txt_conhece_empresas_rede{
+    font-size: 20px;  
+    margin-left: 15px; 
+    margin-top: 17px;
+}
+.caixa2_txt_rede_empresa{
+    height: 50px;
+    width: 15%;
+    float: right;
+    text-align: right;
+}
+#botao_ver_todos_rede{
+    margin-right: 17px;
+    margin-top: 10px;
+    
+}
+#caixa_empresais_rede{
+    height: 248px;
+    width: 100%;
+    float: left;
+    margin-top: 10px; 
+}
+
+
+
+
+
+
+
+
+
+#empresas_adicionar{
+    margin: 0;
+    padding-left: 1px;
+}
+#empresas_adicionar li{
+    width: 183px;
+    height: 248px;
+    border-radius: 10px;
+    margin-left: 10px;
+    list-style-type: none;
+    border: 1px solid rgb(226, 220, 220);
+    
+}
+.empresa{
+    height: 100%;
+    width: 100%;
+}
+#caixa_fundo_empresa{
+    height: 66px;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.fundo_empresa{
+    width: 100%;
+    height: 100%;
+    
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+.foto_empresa{
+    height: 90px;
+    width: 95px;
+    margin-left: 38px;
+    margin-top: -60px;
+}
+.dados_empresa{
+    height: 70px;
+    width: 100%;
+    float: left;
+}
+.nome_empresa{
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+    height: 15px;
+    margin-top: 2px;
+    margin-right: 5px;
+    
+}
+.profissao_empresa{
+    font-size: 16px;
+    width: 90%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space:nowrap;
+
+}
+.caixa_profissao{
+    height: 62px;
+    width: 100%;
+    text-align: center;
+    float: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space:nowrap;
+    
+
+}
+.caixa_base_empresa{
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+.cosideracao_empresa{
+    height: 10px;
+    width: 100%;
+    float: left;
+}
+.fequencia_empresa{
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: 18px;
+}
+.caixar_conectar_empresa{
+    height: 50px;
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+}
+.conectar_empresa{
+    height: 32px;
+    width: 156px;
+    border-radius: 15px;
+    margin-left: 12px;
+    border: 1px solid rgb(105, 181, 231);
+
+}
+.plv_conectar_empresa{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(105, 181, 231);
+    
+}
+.foto_empresa_feed{
+    margin-left: 29px;
+    margin-top: 15px;
+    height: 25px;
+}

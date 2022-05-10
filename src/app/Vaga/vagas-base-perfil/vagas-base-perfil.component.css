@@ -1,0 +1,110 @@
+#corpo_base_perfil_vaga2{
+    width: 40%;
+    float: left;
+    background-color: #F3F2EF;
+    padding-bottom: 20px;
+    
+}
+#caixa_base_perfil_vaga2{
+    width: 76%;
+    float: right;
+    margin-top: 20px;
+    border-top-left-radius: 10px;
+    border: 1px solid rgb(226,220,220);
+    background-color: #fff;
+}
+#caixa1_base_perfil_vaga2{
+    width: 100%;
+    float: left;
+    background-color: #0A66C2;
+    border-top-left-radius: 10px;
+
+}
+#plv_vaga2_base_perfil{
+    font-size: 20px;
+    margin-top: 11px;
+    color: white;
+    margin-left: 18px;
+}
+
+
+#caixa2_base_perfil_vaga2{
+    float: left;
+    width: 100%;
+    overflow-y: scroll;
+}
+#todo_recomentacao{
+    width: 100%;
+    border-bottom: rgb(226,220,220) 1px solid ;
+    float: left;
+}
+
+
+.recomendacao1{
+    width: 15%;
+    float: left;
+}
+.foto_empresa1_vaga2{
+    margin-right: 7px;
+    margin-top: 22px;
+}
+.recomendacao2{
+    width: 76%;
+    float: left;
+    border-bottom: rgb(226,220,220);
+
+}
+.caixa_txt_recomendacao_vaga2{
+    height: 30px;
+    width: 100%;
+    float: left;
+}
+.txt_descricao_vaga2{
+    font-size: 16px;
+    margin-top: 12px;
+    margin-left: 12px;
+    float: left;
+    color: rgb(74, 204, 255);
+}
+.caixa_subtext_recomendacao_vaga2{
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+.subtxt_descricao_vaga2{
+    color: gray;
+    font-size: 14px;
+    margin-left: 11px;
+    float: left;
+}
+.caixa_recrutando_vaga2{
+    float: left;
+    width: 100%;
+}
+.icone_empresa_vaga2{
+    margin-left: 4px;
+    margin-top: 3px;
+    float: left;
+}
+.plv_recrutando_vaga2{
+    color: gray;
+    font-size: 12px;
+    margin-left: 5px;
+    margin-top: 4px;
+    float: left;
+}
+.caixa_tempo_anuncio_vaga2{
+    height: 30px;
+    width: 100%;
+    float: left;
+}
+.tempo_recomendacao_vaga2{
+    color: green;
+    float: left;
+    margin-left: 12px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+.foto_empresa1_vaga2{
+    margin-left: 10px;
+}

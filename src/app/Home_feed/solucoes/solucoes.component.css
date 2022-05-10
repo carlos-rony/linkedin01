@@ -1,0 +1,127 @@
+
+#caixa_solucoes{
+    height: 705px;
+    width: 382px;
+    float: right;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+    
+}
+#caixa_saida_solucoes{
+    height: 50px;
+    width: 100%;
+    text-align: right;
+}
+#icone_sair_solucoes{
+    margin-right: 21px;
+    margin-top: 24px;
+}
+
+
+#caixa_opcoes_solucoes{
+    height: 655px;
+    width: 100%;
+    overflow-y: scroll;
+}
+#opcao1_solucoes{
+    height: 265px;
+    width: 87%;
+    border-radius: 10px;
+    margin-top: 12px;
+    margin-left: 23px;
+    border: 1px solid rgb(226, 220, 220);
+}
+#opcao1_tiulo_solucoes{
+    height: 58px;
+    width: 100%;
+    text-align: center;
+    float: left;
+    border-bottom: 1px solid  rgb(226, 220, 220);
+}
+#plv_titulo_opcao1_solucoes{
+    margin-top: 19px;
+    margin-right: 10px;
+}
+.caixa_lista_opcoes_solucoes{
+    height: 90px;
+    width: 100%;
+    margin-top: 5px;
+    float: left;
+}
+#minhas_solucoes{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+#minhas_solucoes li{
+    height: 85px;
+    width: 65px;
+    margin-top: 0px;
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+    border: 1px ;
+}
+.icones-solucoes{
+    margin-top: 8px;
+}
+.plv_icone_solucoes{
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+
+
+
+
+#opcao2_solucoes{
+    border: 1px solid rgb(226, 220, 220);
+    margin-top: 10px;
+    margin-left: 23px;
+    height: 345px;
+    width: 87%;
+    border-radius: 10px;
+}
+#opcao_titulo_solucoes{
+    height: 55px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid rgb( 226, 220, 220);
+    float: left;
+}
+#plv_titulo_opcao2_solucoes{
+    margin-top: 17px;
+    margin-right: 20px;
+}
+#caixa_lista_opcoes2_solucoes{
+    border-bottom: 1px solid rgb( 226, 220, 220);
+    float: left;
+    height: 245px;
+    width: 100%;
+}
+.linha_txt_servicos_solucoes{
+    width: 100%;
+    float: left;
+}
+.txt_servicos_solucoes{
+    font-size: 14px;
+    margin-left: 24px;
+    margin-top: 5px;
+}
+
+
+#caixa_criar_page_solucoes{
+    float: left;
+    height: 45px;
+    width: 100%;
+}
+#plv_criar_page_solucoes{
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+#icone_criar_page_solucoes{
+    margin-left: 5px;
+    margin-top: 2px;
+    position: absolute;
+}

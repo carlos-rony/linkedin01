@@ -1,0 +1,65 @@
+#corpo_gerenciar_rede{
+    height: 362px;
+    width: 323px;
+    margin-left: 17px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #fff;
+}
+#gerenciar_minha_rede{
+    width: 100%;
+    height: 360px;
+}
+#caixa_gerenciar_minha_rede{
+    height: 40px;
+    width: 100%;
+    float: left;
+
+}
+#plv_gerrenciar_rede{
+    font-size: 20px;
+    color: rgb(58, 56, 56);
+    margin-left: 15px;
+    margin-top: 11px;
+}
+#caixa_emojins_minha_rede{
+    height: 322px;
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid rgb(238, 226, 226);
+}
+.caixa_emojis_rede{
+    height: 40px;
+    width: 100%;
+}
+.caixa1_emojis_rede{
+    width: 16%;
+    height: 40px;
+    float: left;
+    text-align: right;
+}
+.icone_minha_rede{
+    margin-right: 11px;
+    margin-top: 11px;
+}
+.caixa2_emojis_rede{
+    height: 40px;
+    width: 84%;
+    float: right;
+}
+.pvl_categoria_minha_rede{
+    font-size: 20px;
+    margin-left: 7px;
+    margin-top: 7px;
+    color: rgb(158, 154, 154);
+}
+#plv_exibir_menos{
+    font-size: 16px;
+    margin-left: 19px;
+    margin-top: 7px;
+    float: left;
+}
+#icone_exibir_menos_rede{
+    margin-left: 13px;
+    margin-top: 5px;
+}

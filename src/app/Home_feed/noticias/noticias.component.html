@@ -1,0 +1,29 @@
+<div id="corpo_noticias" class="border">
+    <div id="caixa_noticias">
+        <div id="noticias1">
+            <h6 id="plv_noticias">LinkedIn Notícias</h6>
+        </div>
+        <div id="noticias2">
+            <img src="/assets/imagens/icone/icone_promovido.png" id="icone_noticias">
+        </div>
+    </div>
+
+    <div>
+
+        <ul id="lista_noticias">
+            <li *ngFor="let noticia of noticias">
+                <span class="titulo_noticia">{{noticia.titulonoticia}}</span>
+                <br>
+                <span class="sub_noticia">{{noticia.qtde1}} leitores</span>
+            </li>
+        </ul>
+
+    </div>
+
+
+    <div id="exibir_mais">
+        <h6 id="pvl_exibir_mais"><small>Exibir mais</small>
+            <img src="/assets/imagens/icone/icone_exibir.png" id="icone_exibir">
+        </h6>
+    </div>
+</div>

@@ -1,0 +1,144 @@
+#corpo_conversa_menssagens{
+    height: 682px;
+    width: 97%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid rgb(226, 220, 220);
+    margin-top: 2px;
+    background-color: #FFFFFF;
+    border-bottom: 20px;
+
+
+}
+#caixa1_conversa_menssagens{
+    width: 100%;
+    border-bottom: 1px solid rgb(226, 220, 220);
+    float: left;
+    margin-bottom: 10px;
+}
+#caixa01_menssagens{
+    width: 90%;
+    float: left;
+}
+#nome_conversa_menssagens{
+    font-size: 15px;
+    margin-left: 13px;
+    margin-top: 5px;
+}
+#subtxt_conversa_menssagens{
+    font-size: 15px;
+
+    margin-right: 20px;
+}
+#caixa2_menssagens{
+    width: 10%;
+    float: right;
+}
+#icone1_conversa_menssagens{
+    margin-top: 16px;
+    margin-left: 4px;
+}
+
+
+
+#caixa_atributos_conversa_menssagesn{
+    float: left;
+    width: 100%;
+}
+#atributo1{
+    width: 85%;
+    float: left;
+}
+#plv_patocinado_menssagens{
+    font-size: 15px;
+    margin-top: 6px;
+    margin-left: 13px;
+}
+#atributo2{
+    width: 15%;
+    float: right;
+}
+#dta_conversa_menssagens{
+    font-size: 15px;
+    margin-top: 6px;
+    margin-left: 1px;
+}
+
+
+#caixa_assunto_menssagens{
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid rgb(226, 220, 220);
+    
+}
+#assunto_menssaegns{
+    font-size: 14px;
+    margin-left: 13px;
+    margin-top: 1px;
+    float: left;
+}
+#botao_conheça_mais{
+    background-color: rgb(42, 132, 250);
+    height: 32px;
+    width: 28%;
+    border-radius: 20px;
+    margin-left: 13px;
+    margin-top: 7px;
+    text-align: center;
+    margin-bottom: 10px;
+
+
+}
+#plv_conheco_mais_menssagens{
+    margin-top: 6px;
+    margin-left: 16px;
+    color: #FFF;
+    position: absolute;
+}
+
+#caixa_conversa_menssagens{
+    overflow-y: scroll;
+    float: left;
+}
+#apresentacao_coversa_menssagens{
+    width: 100%;
+}
+#caixa_foto_conversa_menssagens{
+    height: 60px;
+    width: 13%;
+    float: left;
+    text-align: right;
+}
+#foto_perfil_conversa_menssagens{
+    height: 40px;
+    border-radius: 75px;
+    margin-top: 9px;
+    margin-right: 1px;
+}
+#dados_perfil_conversa_menssagens{
+    width: 87%;
+    float: right;
+}
+#nm_perfil_conversa_menssagens{
+    font-size: 14px;
+    margin-top: 11px;
+    margin-left: 4px;
+}
+#apresentacao_perfil_coversa_menssagens{
+    font-size: 14px;
+    margin-top: 4px;
+}
+#caixa_texto_conversa_menssagens{
+    height: 470px;
+    width: 82%;
+    margin-left: 60px;
+    float: left;
+}
+#botao_conheca_mais_mensagens{
+    color: #0A66C2;
+}
+.txt_conversa_menssagens{
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 2px;
+}

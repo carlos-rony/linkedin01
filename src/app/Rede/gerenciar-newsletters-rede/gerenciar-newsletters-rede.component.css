@@ -1,0 +1,75 @@
+#newsletters_rede{
+    width: 100%;
+    height: 91%;
+    float: left;
+    background-color: #F3F2EF;
+}
+#newsletters1_rede{
+    width: 68%;
+    float: left;
+}
+#caixa_newsletters_rede{
+
+    margin-left: 145px;
+    border-radius: 10px;
+    border: 1px solid rgb(226, 220,220);
+    background-color: #fff;
+    margin-top: 20px;
+}
+#caixa1_evento1_rede{
+    height: 62px;
+    width: 100%;
+    border-bottom:1px solid rgb(226, 220,220) ;
+}
+#caixa01_newsletters{
+    width: 90%;
+    float: left;
+}
+#pvl_newsletters_rede{
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 16px;
+}
+#caixa02_newsletters{
+    width: 10%;
+    float: left;
+    text-align: center;
+}
+#plv_criar_newsletters_rede{
+    margin-top: 22px;
+    margin-right: 5px;
+    color: royalblue;
+}
+
+
+
+#caixa2_newsletters1_rede{
+    width: 100%;
+}
+#caixa_foto_newsletters_rede{
+    width: 100%;
+    text-align: center;
+}
+#foto_newsletters_rede{
+    margin-top: 20px;
+}
+
+
+#caixa_txt_newsletters_rede{
+    width: 100%;
+    text-align: center;
+}
+#sub_txt_newsletters_rede{
+    font-size: 16px;
+}
+#plv_evento_txt_evento_rede{
+    position: absolute;
+    font-size: 16px;
+}
+
+#newsletters2_rede{
+    width:20%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}

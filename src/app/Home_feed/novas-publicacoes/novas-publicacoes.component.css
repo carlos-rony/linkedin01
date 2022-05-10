@@ -1,0 +1,20 @@
+#corpo_novas_publicacoes{
+    width: 95%;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    justify-content: center;
+    display: flex;
+}
+#botao_novas_publicacoes{
+    border: 1px solid rgb(26, 104, 221);
+    width: 200px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+#plv_novas_publicacoes{
+    font-size: 17px;
+    margin-top: 5px;
+    margin-left: 3px;
+    color:rgb(37, 116, 235);
+}

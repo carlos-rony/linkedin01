@@ -1,0 +1,165 @@
+#corpo_cadastro1{
+    height: 757px;
+    width: 100%;
+    background-color:#F3F2EF ;
+}
+#caixa_cabeçalho_cadastro1{
+    height: 140px;
+    width: 100%;
+    text-align: center;
+}
+#icone_cadastro1{
+    margin-top: 23px;
+    margin-right: 5px;
+}
+#txt_cadastro1{
+    margin-top: 18px;
+    margin-right: 6px;
+}
+
+
+#caixa_corpo_cadastro1{
+    height: 420px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+#caixa_cadastro1{
+    margin-top: 5px;
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #ffff;
+    float: left;
+
+}
+#caixa_inputs_cadastro1{
+    height: 160px;
+    width: 100%;
+    text-align: left;
+}
+.caixa_input_cadastro1{
+    height: 70px;
+    width: 100%;
+    margin-top: 15px;
+    float: left;
+}
+#plv_emeil_cadastro1{
+    margin-top: 4px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+#input_email{
+    height: 30px;
+    width: 88%;
+    margin-left: 20px;
+}
+
+#caixa_linkes_cadastro1{
+    float: left;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+#txt_linkes_cadastro1{
+    font-size: 15px;
+}
+#caixa_botao_cadastro1{
+    float: left;
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    display: flex;
+}
+#botao_cadastre1{
+    height: 49px;
+    width: 87%;
+    border-radius: 22px;
+    margin-right: 5px;
+    margin-top: 12px;
+    text-align: center;
+    background-color: #0A66C2;
+}
+#plv_botao_cadastre1{
+    color: #ffff;
+    margin-top: 15px;
+    margin-right: 2px;
+}
+
+
+#caixa_ou_cadastro1{
+    float: left;
+    width: 100%;
+    height: 15px;
+    margin-top: 14px;
+}
+#linha1{
+    border-bottom: 1px solid rgb(226, 220, 220);
+    width: 30%;
+    float: left;
+    margin-left: 50px;
+}
+#plv_ou_cadastro1{
+    float: left;
+    margin-top: -12px;
+    margin-left: 20px;
+}
+#linha2{
+    border-bottom: 1px solid rgb(226, 220, 220);
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+
+
+#caixa_tem_cadastro1{
+    float: left;
+    height: 50px;
+    width: 100%;
+}
+#cadastro1{
+    color:#4A70C2 ;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 15px;
+    margin-bottom: 3px;
+}
+
+#caixa_cria-page_empressa{
+    height: 130px;
+    width: 100%;
+}
+
+
+
+
+#rodape{
+    height: 35px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    padding: 0;
+    margin: 0;
+    background-color: #ffff;
+    
+}
+#icon_link{
+    height: 22px;
+    width: 58px;
+    margin-bottom: 10px;
+}
+#menu_inferior{
+   text-align: center;
+   padding: 0;
+   margin: 0;
+}
+
+#menu_inferior li{
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    color: rgb(117, 117, 117);
+}

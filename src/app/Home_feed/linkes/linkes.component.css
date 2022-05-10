@@ -1,0 +1,22 @@
+#corpo_linkes{
+    width: 100%;
+    padding-top: 10px;
+}
+#menu_inferior2 li{
+    display: inline-block;
+    padding-right: 10px;
+    font-size: 12px;
+    color: rgb(117, 117, 117);
+}
+#icone_linkes{
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+#descricao_linkes{
+    font-size: 12px;
+    color: black;
+    margin-top: 10px;
+    margin-left: 2px;
+    float: left;
+}

@@ -1,0 +1,153 @@
+#corpo_ola_usuario {
+    width: 98%;
+    float: left;
+    margin-left: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(226,220,220);
+    background-color: #fff;
+}
+
+.foto_fundo {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#ola_usuario_todo {
+    width: 100%;
+    height: 58px;
+    background-color: rgb(87, 82, 104);
+    text-align: center;
+    border-radius: 5px;
+    
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#foto_perfil {
+    height: 70px;
+    margin-top: -40px;
+    border: 2px solid white;
+}
+
+#pv_ola_usuario {
+    margin-top: 12px;
+    margin-right: 2px;
+}
+
+#pre_curriculo { 
+    font-size: 16px;
+    margin-top: 15px;
+    color: rgb(134, 128, 128);
+}
+
+#linha1_ola_ususario {
+    margin-top: 16px;
+}
+
+#conexao {
+    height: 64px;
+    width: 100%;
+}
+
+#conexao1 {
+    width: 80%;
+    float: left;
+    text-align: left;
+}
+
+#conexao2 {
+    width: 20%;
+    float: right;
+}
+#quantidade_viu_perfil{
+    margin-top: 12px;
+    font-size: 13px;
+    font-weight: 600;
+}
+#quantidade_viu_publicacção{
+    font-size: 13px;
+    font-weight: 600;
+}
+
+
+
+
+#icon_conexao {
+    width: 14px;
+    margin-top: 19px;
+    margin-left: 3px;
+}
+
+#plv_conexoes {
+    color: #707270;
+    margin-top: 14px;
+    margin-left: 11px;
+    font-size: 15px;
+}
+
+#plv_sua_rede {
+    color: #707270;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 1px;
+}
+
+#ferramentas_premium {
+    width: 100%;
+    float: left;
+}
+
+#ferramentas {
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+}
+
+#plv_ferramentas {
+    text-align: left;
+    font-size: 15px;
+    color: rgb(134, 128, 128);
+    margin-top: 11px;
+    margin-left: 11px;
+}
+
+#premium {
+    width: 100%;
+    float: left;
+}
+
+#icone_premium {
+    margin-left: 13px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#plv_premium {
+    margin-top: 5px;
+    margin-left: 6px;
+    float: left;
+    font-size: 12px;
+    color: gray;
+}
+#meus_itens{
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    border-top:1px solid rgb(226,220,220);
+}
+#icone_itens {
+    margin-left: 14px;
+    margin-top: 19px;
+    float: left;
+}
+
+#plv_itens {
+    margin-left: 11px;
+    margin-top: 13px;
+    float: left;
+    font-size: 15px;
+    color: gray;
+}

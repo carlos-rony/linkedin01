@@ -1,0 +1,47 @@
+#corpo_pesquisar_vaga{
+    border: 1px solid rgb(226, 220, 220);
+    height: 115px;
+    width: 542px;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-top: 20px;
+    
+    background-color: #fff;
+}
+#caixa1_pesquisar_vaga{
+    height: 57px;
+    width: 100%;
+    float: left;
+}
+#pesquisa1_vaga{
+    height: 57px;
+    width: 85%;
+    float: left;
+}
+#plv_pesquisar_vagas{
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: 27px;
+}
+#pesquisa2_vaga{
+    height: 57px;
+    width: 15%;
+    float: right;
+    text-align: center;
+}
+#plv_limpar_pesquisa_vaga{
+    font-size: 15px;
+    margin-top: 27px;
+    margin-right: 11px;
+
+}
+#caixa2_pesquisar_vaga{
+    height: 57px;
+    width: 100%;
+    float: left;
+}
+#nome_ultima_empresa_vaga{
+    font-size: 14px;
+    margin-left: 15px;
+    margin-top: 10px;
+}

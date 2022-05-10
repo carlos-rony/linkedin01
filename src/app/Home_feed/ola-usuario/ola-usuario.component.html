@@ -1,0 +1,44 @@
+<div id="corpo_ola_usuario">
+    <div id="ola_usuario_todo">
+        <img src="/assets/imagens/fundo/{{fundopessoa}}" class="foto_fundo">
+        <img src="/assets/imagens/pessoas/{{fotopessoa}}" class="rounded-circle" id="foto_perfil">
+        <h6 id="pv_ola_usuario">{{nomepessoa}}
+            <h6 id="pre_curriculo"><small>{{cargopessoa}}
+                </small>
+            </h6>
+        </h6>
+        <div class="border-bottom" id="linha1_ola_ususario"></div>
+        <div id="conexao" class="border-bottom">
+            <a routerLink="/Minha_Rede">
+                <div id="conexao1">
+                    <h6 id="plv_conexoes"><small>Quem viu seu perfil
+                            <p id="plv_sua_rede">Viram sua publicação</p>
+                        </small></h6>
+                </div>
+                <div id="conexao2">
+                    <div id="quantidade_viu_perfil">{{qtdeviuperfil}}</div>
+                    <div id="quantidade_viu_publicacção">{{qtdevirampublicacao}}</div>
+                </div>
+            </a>
+        </div>
+        <div id="ferramentas_premium">
+            <div id="ferramentas">
+                <h3 id="plv_ferramentas"><small>Acesse ferramentas e estatísticas <br> exclusivas</small></h3>
+                <a routerLink="/Experimente-Premium">
+                    <div id="premium">
+                        <img src="/assets/imagens/icone/icone_premium.png" id="icone_premium">
+                        <span id="plv_premium"><b>Experimente Premium grátis</b></span>
+                    </div>
+                </a>
+                <a routerLink="/Minha_Rede">
+                    <div id="meus_itens">
+                        <img src="/assets/imagens/icone/icone_itens.png" id="icone_itens">
+                        <span id="plv_itens"><small>Meus itens</small></span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+</div>

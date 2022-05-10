@@ -1,0 +1,236 @@
+#barra_branca {
+    height: 52px;
+    width: 100%;
+    background-color: #ffff;
+}
+
+#espaço1 {
+    width: 10%;
+}
+
+#espaço2 {
+    width: 27%;
+}
+
+#espaço3 {
+    width: 54%;
+}
+
+#espaço4 {
+    width: 9%;
+}
+
+#img_logo {
+    margin-left: 42px;
+    margin-top: 11px;
+    position: relative;
+    float: left;
+}
+
+#lupa {
+    width: 28px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+#barra_pesquisa {
+    height: 35px;
+    width: 60%;
+    font-size: 14px;
+    font-weight: 400;
+    border: transparent;
+    background-color: #EEF3F8;
+    float: left;
+    margin-top: 10px;
+    margin-left: -2px;
+}
+
+#espaço3 li {
+    display: inline-block;
+    margin-right: 1px;
+    float: right;
+}
+
+#menu_premium {
+    width: 125px;
+    height: 50px;
+    margin: 0px;
+}
+
+#pv_premium {
+    width: 121px;
+    color: #a59345;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+#menu_solucao {
+    height: 50px;
+    width: 80px;
+    text-align: center;
+}
+
+#icon_solucoes {
+    margin-top: 7px;
+    margin-left: 9px;
+}
+
+#pv_solucao {
+    font-size: 15px;
+    color: #888885;
+    margin-top: 2px;
+    margin-left: 8px;
+}
+
+#seta_solucao {
+    width: 11px;
+    height: 11px;
+}
+
+#eu {
+    height: 50px;
+    width: 75px;
+    text-align: center;
+}
+
+#btn_eu {
+    background-color: transparent;
+    border-radius: 1px;
+}
+
+#icon_eu {
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+#pv_eu {
+    font-size: 15px;
+    color: #6e6e67;
+    margin-left: 5px;
+}
+
+#menu_notificaçao {
+    height: 50px;
+    width: 80px;
+    text-align: center;
+}
+
+#btn_sino {
+    border-radius: 1px;
+    background-color: transparent;
+    border: 1px solid red;
+}
+
+#icon_sino {
+    margin-left: 4px;
+    margin-top: 9px;
+}
+
+#pv_sino {
+    font-size: 15px;
+    color: #6e6e67;
+    margin-top: 1px;
+    margin-left: 4px;
+}
+
+#menu_menssagens {
+    height: 50px;
+    width: 80px;
+    text-align: center;
+}
+
+#btn_menssagens {
+    height: 50px;
+    width: 78px;
+    background-color: transparent;
+}
+
+#icon_menssagens {
+    margin-top: 10px;
+    margin-left: 6px;
+}
+
+#pv_menssagens {
+    font-size: 15px;
+    color: #6e6e67;
+    margin-top: 1px;
+    margin-left: 5px;
+}
+
+#menu_vaga {
+    height: 50px;
+    width: 80px;
+    text-align: center;
+}
+
+#btn_vaga {
+    height: 50px;
+    width: 75px;
+    background-color: transparent;
+}
+
+#icon_vaga {
+    margin-left: 8px;
+    margin-top: 10px;
+}
+
+#pv_vaga {
+    font-size: 15px;
+    color: #6e6e67;
+    margin-left: 6px;
+    margin-top: 2px;
+}
+
+#menu_rede {
+    height: 50px;
+    width: 80px;
+    text-align: center;
+}
+
+#btn_rede {
+    background-color: transparent;
+    height: 50px;
+    width: 80px;
+    margin-right: 0px;
+}
+
+#icon_rede {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#pv_rede {
+    font-size: 15px;
+    color: #6e6e67;
+    margin-left: 9px;
+}
+
+#menu_inicio {
+    height: 50px;
+    width: 76px;
+    text-align: center;
+}
+
+#btn_menu_inicio {
+    background-color: transparent;
+    height: 50px;
+    width: 85px;
+}
+
+#icon_menu_inicio {
+    margin-top: 9px;
+    margin-left: 7px;
+}
+
+#pv_menu_inicio {
+    font-size: 18px;
+    margin-left: 7px;
+    color: black;
+}

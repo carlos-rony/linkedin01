@@ -1,0 +1,39 @@
+#corpo_suas_notificacoes{
+    height: 190px;
+    width: 225px;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgb(226, 220, 220);
+}
+#caixa_texto_suas_notificacaoes{
+    height: 115px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid rgb(226, 220, 220);
+}
+#plv_suas_notificacoes{
+    margin-top: 19px;
+    margin-left: 0px;
+    float: left;
+    text-align: center;
+}
+#subtext_suas_notificacoes{
+    font-size: 16px;
+    margin-left: 45px;
+    margin-top: 13px;
+    float: left;
+}
+#caixa_configuracoes_notificacoes{
+    height: 75px;
+    text-align: center;
+}
+#plv_melhore_suas_notificacoes{
+    font-size: 18px;
+    margin-top: 12px;
+    margin-right: 5px;
+}
+#plv_ajustar_confg_notificacoes{
+    margin-top: 2px;
+    margin-left: 3px;
+    color: #0A66C2;
+}

@@ -1,0 +1,118 @@
+#corpo_mensagens_notificacoes{
+    width: 98%;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgb(226, 220, 220) ;
+    float: left;
+    margin-bottom: 20px;
+}
+#minhas_notificacoes li{
+    list-style: none;
+    border-bottom: 1px solid green;
+}
+#minhas_notificacoes {
+    margin: 0px;
+    padding: 0px;
+}
+.caixa_mensagens_notificacao{
+    width: 100%;
+    float: left;
+    border-bottom: rgb(226, 220, 220) 1px solid ;
+}
+.caixa1_notificacoes{
+    width: 15%;
+    float: left;
+}
+#icone_mensagens_notificacao{
+    margin-left: 27px;
+    margin-top: 30px;
+    
+}
+#icone2_mensagens_notificacao{
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.caixa2_notificacoes{
+    width: 68%;
+    float: left;
+}
+.caixa_titulo_txt_notificacao{
+
+    float: left;
+    height: 40px;
+    width: 100%;
+}
+.titulo_txt_notificacao{
+    margin-top: 16px;
+    font-size: 14px;
+    margin-left: 12px;
+    float: left;
+    margin-top: 19px;
+    position: absolute;
+    color: black;
+}
+.caixa_txt_menssagem_notificacao{
+    float: left;
+    width: 100%;
+    height: 78px;
+}
+
+.caixa_txt3_menssagem_notificacao{
+    float: left;
+    width: 100%;
+    height: 78px;
+    margin-top: 30px;
+}
+.txt_menssagem_notificacao{
+    font-size: 17px;
+    float: right;
+    margin-left: 10px;
+    color: black;
+
+}
+.txt2_menssagem_notificacao{
+    font-size: 17px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+    color: black;
+
+}
+#caixa_botao_veja_vaga_notificacao{
+    float: left;
+}
+.botao_veja_vagas_notificacoes{
+    border: 1px solid royalblue;
+    height: 31px;
+    width: 130px;
+    float: left;
+    border-radius: 15px;
+    margin-left: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.plv_veja_vaga_notificacao{
+    margin-top: 5px;
+    color: royalblue;
+}
+.caixa3_notificacao{
+    float: right;
+    width: 10%;
+}
+.tempo_menssagem_notificacao{
+    margin-top: 17px;
+    margin-left: 14px;
+    color: black;
+}
+.icone_menssagens_notificacoes{
+    margin-top: 17px;
+    margin-right: 15px;
+}
+#plv_botao_notificacao{
+    margin-top: 7px;
+    margin-right: 3px;
+}
+
+
+

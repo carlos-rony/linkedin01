@@ -1,0 +1,111 @@
+#corpo_cadastro2{
+    height: 757px;
+    width: 100%;
+    background-color:#F3F2EF ;
+}
+#caixa_cabeçalho2_cadastro2{
+    height: 140px;
+    width: 100%;
+    text-align: center;
+}
+#icone_cadastro2{
+    margin-top: 23px;
+    margin-right: 5px;
+}
+#txt_cadastro2{
+    margin-top: 18px;
+    margin-right: 6px;
+}
+
+
+#caixa_corpo_cadastro2{
+    height: 420px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#caixa_cadastro2{
+    margin-top: 5px;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    float: left;
+    background-color: #ffff;
+}
+#caixa_inputs_cadastro2{
+    height: 160px;
+    width: 100%;
+    text-align: left;
+}
+.caixa_input_cadastro2{
+    height: 67px;
+    width: 100%;
+    margin-top: 15px;
+    float: left;
+}
+#pvl_nome_cadastro2{
+    margin-top: 9px;
+    margin-left: 23px;
+    font-size: 17px;
+}
+#pvl_sobrenome_cadastro2{
+    margin-left: 23px;
+    font-size: 17px;
+}
+.input_cadastro2{
+    width: 350px;
+    margin-left: 23px;
+}
+#caixa_botao_continuar{
+    float: left;
+    width: 100%;
+    height: 85px;
+    justify-content: center;
+    display: flex;
+}
+#botao_continuar_cadastro2{
+    float: left;
+    height: 48px;
+    width: 352px;
+    border-radius: 22px;
+    margin-top: 15px;
+    text-align: center;
+    background-color: #0A66C2;
+}
+#plv_continuar_cadastro2{
+    margin-top: 13px;
+    margin-right: 2px;
+    color: #ffff;
+}
+
+
+
+#rodape2{
+    height: 35px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    padding: 0;
+    margin: 0;
+    background-color: #ffff;
+    
+}
+#icon_link{
+    height: 22px;
+    width: 58px;
+    margin-bottom: 10px;
+}
+#menu_inferior{
+   text-align: center;
+   padding: 0;
+   margin: 0;
+}
+
+#menu_inferior li{
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    color: rgb(117, 117, 117);
+}

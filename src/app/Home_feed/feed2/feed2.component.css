@@ -1,0 +1,186 @@
+#corpo_feed2{
+    width: 95%;
+    margin-left: 19px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: #fff;
+
+}
+#perfil2_post2{
+    width: 100%;
+}
+#post1_feed2{
+    height: 75px;
+    width: 90%;
+    float: left;
+}
+#foto_perfil_post2{
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+#nome_perfil2_post{
+    float: left;
+    position: absolute;
+    font-size: 18px;
+    margin-left: 8px;
+    margin-top: 7px;
+}
+#subdescricao_post2{
+    margin-left: 4px;
+    position: absolute;
+}
+#post2_feed2{
+    width: 10%;
+    float: right;
+}
+#icone_post2{
+    position: absolute;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+#descriacao_post2{
+    width: 100%;
+}
+#descricao01_post2{
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+#plv_descriacao_post2{
+    color: gray;
+    font-size: 17px;
+    margin-left: 12px;
+    position: absolute;
+}
+#foto_post2{
+    width: 100%;
+}
+
+#teste_post2{
+    width: 100%;
+    height: 60px;
+    background-color: #E5EAEF;
+}
+#teste1_post2{
+    width: 95%;
+    float: left;
+}
+#plv_teste_post02{
+    font-size: 14px;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+#plv_subdescricao_teste_post2{
+    font-size: 12px;
+    position: absolute;
+    margin-top: 10px;
+}
+#teste02_post2{
+    width: 5%;
+    float: right;
+}
+#icone_teste_post2{
+    margin-top: 22px;
+    margin-left: 2px;
+}
+
+
+#emojins_post2{
+    width: 100%;
+}
+#barra_curtidas_post2{
+    height: 35px;
+    width: 95%;
+    margin-left: 10px;
+}
+#icone_post2{
+    margin-left: 6px;
+    margin-top: 12px;
+}
+#nm_curtidas_post2{
+    font-size: 13px;
+    margin-left: 48px;
+    margin-top: 9px;
+    position: absolute;
+}
+#nm_cometarios_post2{
+    float: right;
+    margin-top: 6px;
+    font-size: 15px;
+}
+
+
+#barra_emojins_post2{
+    width: 100%;
+}
+#barra_emojins_post2 li{
+    display: inline-block;
+    padding-left: 18px;
+    font-size: 11px;
+}
+#caixa_emoji1_post2{
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+#emoji_gostar_post2{
+    float: left;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+#plv_emoji01_post2{
+    float: left;
+    margin-top: 12px;
+    margin-left: 5px;
+    font-size: 14px;
+}
+#caixa_emoji2_post2{
+    height: 40px;
+    width: 100px;
+    float: left;
+}
+#emoji_comentar_post2{
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 5px;
+}
+#plv_emoji2_post2{
+    font-size: 14px;
+    margin-left: 32px;
+    margin-top: 12px;
+}
+#caixa_emoji3_post2{
+    float: left;
+    height: 40px;
+    width: 120px;
+}
+#emoji_compartilhar_post2{
+    margin-top: 12px;
+margin-left: 3px;
+position: absolute;
+
+}
+#plv_emoji3_post2{
+    font-size: 14px;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+#caixa_emiji4_post2{
+    float: left;
+    height: 40px;
+    width: 100px;
+}
+#emoji_enviar_post2{
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#plv_emoji4_post2{
+    font-size: 14px;
+    margin-left: 38px;
+    margin-top: 12px;
+}

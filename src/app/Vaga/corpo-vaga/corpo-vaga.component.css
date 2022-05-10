@@ -1,0 +1,20 @@
+#corpo_vaga{
+    background-color: #F3F2EF;
+    position: absolute;
+    
+}
+#mg-direita{
+    width: 11%;
+}
+#component1-vaga{
+    width: 17%;
+}
+#component2-vaga{
+    width: 40%;
+}
+#component3-vaga{
+    width: 20%;
+}
+#mg-esquerda{
+    width: 12%;
+}

@@ -1,0 +1,15 @@
+#corpo_anuncio_notificacao{
+    width: 97%;
+    border-radius: 10px;
+    margin-left: 5px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border: 1px solid rgb(226, 220, 220);
+    background-color: #fff;
+}
+#foto_anuncio_notificacoes{
+    height: 235px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
